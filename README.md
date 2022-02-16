@@ -17,8 +17,10 @@ JavaScript  React.js  Node.js
 HTML  CSS  GIT  GitHub Webpuck  
 Visual Studio Code  |  Visual Studio  
 Puthon  C++  C#  Photoshop   
-
-⚙️  GitHub Analytics
+  
+   
+⚙️  GitHub Analytics 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
  
 
 🤝🏻  Connect with Me
