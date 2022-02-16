@@ -13,7 +13,7 @@
 Night Coding
 
 🛠  Tech Stack
-<img height="32" width="32" bg-color="#F7DF1E" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />  React.js  Node.js  
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" color="#F7DF1E" />  React.js  Node.js  
 HTML  CSS  GIT  GitHub Webpuck  
 Visual Studio Code  |  Visual Studio  
 Puthon  C++  C#  Photoshop   
