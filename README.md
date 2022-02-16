@@ -3,7 +3,6 @@
 
 👨🏻‍💻  About Me
 💡  I like to explore new technologies and develop software solutions and quick hacks.
-
 🎓  I'm currently studying Statistics at Oles Honchar Dnipro National University.
 🌱  I'm on track for learning more about  artificial intelligence, application architecture and more.
 ✍️  In my free time, I actively study psychology, English, and also read books.
