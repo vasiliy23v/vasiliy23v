@@ -21,6 +21,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 👨🏻‍💻  About Me  
 💡  I like to explore new technologies and develop software solutions and quick hacks.  
@@ -32,7 +33,6 @@
 📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!  
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
 
