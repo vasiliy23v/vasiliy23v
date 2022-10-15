@@ -37,10 +37,5 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="left">
-  <a href="https://github.com/vasiliy23v">
-  <img height="32" width="32" color="#fff" src="https://unpkg.com/simple-icons@v6/icons/github.svg" />
-  </a>
-</p>
 
   
