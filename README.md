@@ -1,19 +1,6 @@
 ### Hi there! I'm Vasiliy 👋
 
-
-### 👨🏻‍💻  About Me  
-💡  I like to explore new technologies and develop software solutions and quick hacks.  
-🎓  I'm currently studying Statistics at Oles Honchar Dnipro National University.  
-🌱  I'm on track for learning more about  artificial intelligence, application architecture and more.  
-✍️  In my free time, I actively study psychology, English, and also read books.  
-💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.  
-✉️  You can shoot me an email at shefvasiliys2003@gmail.com! I'll try to respond as soon as I can.  
-📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!  
-
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -35,7 +22,22 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 
-### 🤝🏻 &nbsp;Connect with Me
+## 👨🏻‍💻  About Me  
+💡  I like to explore new technologies and develop software solutions and quick hacks.  
+🎓  I'm currently studying Statistics at Oles Honchar Dnipro National University.  
+🌱  I'm on track for learning more about  artificial intelligence, application architecture and more.  
+✍️  In my free time, I actively study psychology, English, and also read books.  
+💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.  
+✉️  You can shoot me an email at shefvasiliys2003@gmail.com! I'll try to respond as soon as I can.  
+📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!  
+
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+
+
+
+# 🤝🏻 &nbsp;Connect with Me
 
 
   
