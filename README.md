@@ -38,15 +38,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-  <a href="https://www.instagram.com/vasiliy.shef/">
-  <img height="32" width="32" color="#fff" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/vasiliy-shevchuk-24b0b0177/">
-  <img height="32" width="32" color="#fff" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />
-  </a>
-  <a href="mailto:shefvasiliys2003@gmail.com">
-  <img height="32" width="32" color="#fff" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" />
-  </a>
   <a href="https://github.com/vasiliy23v">
   <img height="32" width="32" color="#fff" src="https://unpkg.com/simple-icons@v6/icons/github.svg" />
   </a>
