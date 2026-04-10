@@ -1,37 +1,29 @@
 ### Hi there! I'm Vasiliy 👋
 
-## 🛠 &nbsp;Tech Stack
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+I like to explore new technologies and develop software solutions. 
 
+Tricks and puzzles of any form are my true passion.
+
+That's why when I do not look like 👨🏻‍💻 I enjoy reading about psychology🧠🧐 and learning some magic🧙♠️
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="padding: 9% 35% 0 0;"/>
+
+#### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=material-ui)&nbsp;
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Zeplin](https://img.shields.io/badge/-Zeplin-05122A?style=flat&logo=zeplin)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
 
-## 👨🏻‍💻  About Me  
-💡  I like to explore new technologies and develop software solutions and quick hacks.  
-🎓  I'm currently studying Statistics at Oles Honchar Dnipro National University.  
-🌱  I'm on track for learning more about  artificial intelligence, application architecture and more.  
-✍️  In my free time, I actively study psychology, English, and also read books.  
-💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.  
-✉️  You can shoot me an email at shefvasiliys2003@gmail.com! I'll try to respond as soon as I can.  
-📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!  
-
-
-
-
-
-
-# 🤝🏻 &nbsp;Connect with Me
-
-
-  
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
