@@ -6,7 +6,7 @@ Tricks and puzzles of any form are my true passion.
 
 That's why when I do not look like 👨🏻‍💻 I enjoy reading about psychology🧠🧐 and learning some magic🧙♠️
 <div align="center"> 
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="padding: 9% 35% 0 0;"/>
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 </div>
 
 <div align="center"> 
