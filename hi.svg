@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="90" viewBox="0 0 640 90" role="img" aria-label="Hi there! I'm Vasiliy">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77DFF"/>
+      <stop offset="1" stop-color="#7DD3FC"/>
+    </linearGradient>
+    <clipPath id="reveal"><rect class="reveal" x="0" y="0" width="0" height="90"/></clipPath>
+  </defs>
+
+  <style>
+    .txt { font-family: 'Fira Code', 'SFMono-Regular', Consolas, 'Courier New', monospace; font-size: 40px; font-weight: 700; fill: url(#g); }
+
+    /* loop = 9s: type (0-35%), hold, then restart */
+    .reveal { animation: type 9s steps(21, end) infinite; }
+    @keyframes type { 0% {width:0} 35% {width:510px} 92% {width:510px} 100% {width:0} }
+
+    .cursor { fill: #C77DFF; animation: move 9s steps(21, end) infinite, blink 1s steps(1) infinite; }
+    @keyframes move { 0% {transform: translateX(0)} 35% {transform: translateX(510px)} 92% {transform: translateX(510px)} 100% {transform: translateX(0)} }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    /* the hand appears after typing and waves */
+    .hand-wrap { opacity: 0; animation: show 9s infinite; }
+    @keyframes show { 0%,36% {opacity:0} 38%,92% {opacity:1} 100% {opacity:0} }
+    .hand { font-size: 38px; transform-box: fill-box; transform-origin: 70% 80%; animation: wave 1.2s ease-in-out infinite; }
+    @keyframes wave {
+      0%,100% { transform: rotate(0deg); }
+      20% { transform: rotate(18deg); }
+      40% { transform: rotate(-10deg); }
+      60% { transform: rotate(16deg); }
+      80% { transform: rotate(-6deg); }
+    }
+  </style>
+
+  <g clip-path="url(#reveal)">
+    <text class="txt" x="10" y="58" textLength="504" lengthAdjust="spacingAndGlyphs">Hi there! I'm Vasiliy</text>
+  </g>
+  <rect class="cursor" x="12" y="62" width="14" height="4"/>
+
+  <g class="hand-wrap">
+    <text class="hand" x="532" y="56">👋</text>
+  </g>
+</svg>
