@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Animated banner with card suits and code symbols">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05122A"/>
+      <stop offset="0.55" stop-color="#2A1B6B"/>
+      <stop offset="1" stop-color="#7A3FD1"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77DFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7DD3FC" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#C77DFF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#C77DFF" stroke-opacity="0.10"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .g { font-family: Georgia, 'Fira Code', Consolas, monospace; font-weight: 700;
+         transform-box: fill-box; transform-origin: center;
+         animation-name: float; animation-timing-function: ease-in-out; animation-iteration-count: infinite; }
+    @keyframes float {
+      0%, 100% { transform: translateY(0) rotate(-7deg); }
+      50% { transform: translateY(-18px) rotate(7deg); }
+    }
+    .glow { animation: pulse 4s ease-in-out infinite; }
+    .glow2 { animation: pulse 5s ease-in-out -2s infinite; }
+    @keyframes pulse { 0%, 100% { opacity: .25; } 50% { opacity: .65; } }
+    .scan { animation: sweep 6s linear infinite; }
+    @keyframes sweep { from { transform: translateX(-300px); } to { transform: translateX(900px); } }
+    .grid { animation: drift 8s linear infinite; }
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(30px); } }
+  </style>
+
+  <rect width="900" height="240" rx="18" fill="url(#bg)"/>
+  <g class="grid"><rect x="-30" width="960" height="240" fill="url(#grid)"/></g>
+  <circle class="glow" cx="760" cy="40" r="120" fill="#C77DFF"/>
+  <circle class="glow2" cx="110" cy="230" r="100" fill="#7DD3FC"/>
+  <rect class="scan" y="0" width="300" height="240" fill="url(#scan)" opacity="0.18"/>
+  <text x="60" y="93" class="g" fill="#FFFFFF" fill-opacity="0.6" style="font-size:54px;animation-duration:7.6s;animation-delay:-1.3s">♠</text>
+  <text x="178" y="88" class="g" fill="#FF7A9C" fill-opacity="0.4" style="font-size:38px;animation-duration:5.9s;animation-delay:-0.6s">♥</text>
+  <text x="263" y="96" class="g" fill="#7DD3FC" fill-opacity="0.88" style="font-size:54px;animation-duration:7.0s;animation-delay:-4.3s">♦</text>
+  <text x="385" y="97" class="g" fill="#C77DFF" fill-opacity="0.81" style="font-size:30px;animation-duration:5.2s;animation-delay:-0.2s">♣</text>
+  <text x="504" y="96" class="g" fill="#FFFFFF" fill-opacity="0.78" style="font-size:30px;animation-duration:6.0s;animation-delay:-4.1s">{ }</text>
+  <text x="615" y="91" class="g" fill="#7DD3FC" fill-opacity="0.7" style="font-size:38px;animation-duration:6.5s;animation-delay:-4.6s">&lt;/&gt;</text>
+  <text x="747" y="99" class="g" fill="#FFFFFF" fill-opacity="0.57" style="font-size:46px;animation-duration:6.7s;animation-delay:-6.5s">( )</text>
+  <text x="837" y="74" class="g" fill="#FF7A9C" fill-opacity="0.77" style="font-size:46px;animation-duration:6.5s;animation-delay:-0.2s">[ ]</text>
+  <text x="68" y="164" class="g" fill="#7DD3FC" fill-opacity="0.41" style="font-size:54px;animation-duration:5.9s;animation-delay:-0.5s">=&gt;</text>
+  <text x="147" y="201" class="g" fill="#C77DFF" fill-opacity="0.47" style="font-size:30px;animation-duration:7.8s;animation-delay:-0.4s">#</text>
+  <text x="285" y="183" class="g" fill="#FFFFFF" fill-opacity="0.39" style="font-size:54px;animation-duration:6.9s;animation-delay:-5.4s">♠</text>
+  <text x="392" y="179" class="g" fill="#7DD3FC" fill-opacity="0.52" style="font-size:30px;animation-duration:5.0s;animation-delay:-2.9s">♥</text>
+  <text x="496" y="166" class="g" fill="#FFFFFF" fill-opacity="0.74" style="font-size:38px;animation-duration:5.0s;animation-delay:-3.3s">♦</text>
+  <text x="634" y="169" class="g" fill="#FF7A9C" fill-opacity="0.6" style="font-size:38px;animation-duration:5.6s;animation-delay:-5.1s">♣</text>
+  <text x="726" y="184" class="g" fill="#7DD3FC" fill-opacity="0.41" style="font-size:54px;animation-duration:6.3s;animation-delay:-1.5s">&amp;&amp;</text>
+  <text x="849" y="195" class="g" fill="#C77DFF" fill-opacity="0.9" style="font-size:46px;animation-duration:5.1s;animation-delay:-1.3s">;</text>
+</svg>

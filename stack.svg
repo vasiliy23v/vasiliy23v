@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="114" viewBox="0 0 940 114" role="img" aria-label="Tech stack: JavaScript, React, TypeScript, Node.js, HTML, CSS, Tailwind, MaterialUI, Figma, Zeplin, Git, Webpack, Vite, Redux">
+  <style>
+    .t { font-family: 'Fira Code', 'SFMono-Regular', Consolas, 'Courier New', monospace; font-size: 14px; font-weight: 700; fill: #E6EDF7; }
+    .in { opacity: 0; animation: enter .7s ease-out forwards; }
+    @keyframes enter { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+    .fl { animation: bob 5s ease-in-out infinite; }
+    @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+    .dot { animation: ping 2.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes ping { 0%, 100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.35); opacity: .65; } }
+    .card { animation: edge 4s ease-in-out infinite; }
+    @keyframes edge { 0%, 100% { stroke-opacity: .45; } 50% { stroke-opacity: 1; } }
+  </style>
+  <g transform="translate(4,8)">
+    <g class="in" style="animation-delay:0.0s">
+      <g class="fl" style="animation-delay:-0.0s">
+        <rect class="card" width="128" height="46" rx="23" fill="#0B1B3D" stroke="#F7DF1E" stroke-opacity="0.75" stroke-width="1.5" style="animation-delay:-0.0s"/>
+        <circle class="dot" cx="26" cy="23" r="7" fill="#F7DF1E" style="animation-delay:-0.0s"/>
+        <circle cx="26" cy="23" r="12" fill="#F7DF1E" fill-opacity="0.15"/>
+        <text x="46" y="28" class="t">JavaScript</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(138,8)">
+    <g class="in" style="animation-delay:0.08s">
+      <g class="fl" style="animation-delay:-0.45s">
+        <rect class="card" width="128" height="46" rx="23" fill="#0B1B3D" stroke="#61DAFB" stroke-opacity="0.75" stroke-width="1.5" style="animation-delay:-0.45s"/>
+        <circle class="dot" cx="26" cy="23" r="7" fill="#61DAFB" style="animation-delay:-0.45s"/>
+        <circle cx="26" cy="23" r="12" fill="#61DAFB" fill-opacity="0.15"/>
+        <text x="46" y="28" class="t">React</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(272,8)">
+    <g class="in" style="animation-delay:0.16s">
+      <g class="fl" style="animation-delay:-0.9s">
+        <rect class="card" width="128" height="46" rx="23" fill="#0B1B3D" stroke="#3178C6" stroke-opacity="0.75" stroke-width="1.5" style="animation-delay:-0.9s"/>
+        <circle class="dot" cx="26" cy="23" r="7" fill="#3178C6" style="animation-delay:-0.9s"/>
+        <circle cx="26" cy="23" r="12" fill="#3178C6" fill-opacity="0.15"/>
+        <text x="46" y="28" class="t">TypeScript</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(406,8)">
+    <g class="in" style="animation-delay:0.24s">
+      <g class="fl" style="animation-delay:-1.35s">
+        <rect class="card" width="128" height="46" rx="23" fill="#0B1B3D" stroke="#5FA04E" stroke-opacity="0.75" stroke-width="1.5" style="animation-delay:-1.35s"/>
+        <circle class="dot" cx="26" cy="23" r="7" fill="#5FA04E" style="animation-delay:-1.35s"/>
+        <circle cx="26" cy="23" r="12" fill="#5FA04E" fill-opacity="0.15"/>
+        <text x="46" y="28" class="t">Node.js</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(540,8)">
+    <g class="in" style="animation-delay:0.32s">
+      <g class="fl" style="animation-delay:-1.8s">
+        <rect class="card" width="128" height="46" rx="23" fill="#0B1B3D" stroke="#E34F26" stroke-opacity="0.75" stroke-width="1.5" style="animation-delay:-1.8s"/>
+        <circle class="dot" cx="26" cy="23" r="7" fill="#E34F26" style="animation-delay:-1.8s"/>
+        <circle cx="26" cy="23" r="12" fill="#E34F26" fill-opacity="0.15"/>
+        <text x="46" y="28" class="t">HTML</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(674,8)">
+    <g class="in" style="animation-delay:0.4s">
+      <g class="fl" style="animation-delay:-2.25s">
+        <rect class="card" width="128" height="46" rx="23" fill="#0B1B3D" stroke="#1572B6" stroke-opacity="0.75" stroke-width="1.5" style="animation-delay:-2.25s"/>
+        <circle class="dot" cx="26" cy="23" r="7" fill="#1572B6" style="animation-delay:-2.25s"/>
+        <circle cx="26" cy="23" r="12" fill="#1572B6" fill-opacity="0.15"/>
+        <text x="46" y="28" class="t">CSS</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(808,8)">
+    <g class="in" style="animation-delay:0.48s">
+      <g class="fl" style="animation-delay:-2.7s">
+        <rect class="card" width="128" height="46" rx="23" fill="#0B1B3D" stroke="#06B6D4" stroke-opacity="0.75" stroke-width="1.5" style="animation-delay:-2.7s"/>
+        <circle class="dot" cx="26" cy="23" r="7" fill="#06B6D4" style="animation-delay:-2.7s"/>
+        <circle cx="26" cy="23" r="12" fill="#06B6D4" fill-opacity="0.15"/>
+        <text x="46" y="28" class="t">Tailwind</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(4,60)">
+    <g class="in" style="animation-delay:0.56s">
+      <g class="fl" style="animation-delay:-3.15s">
+        <rect class="card" width="128" height="46" rx="23" fill="#0B1B3D" stroke="#007FFF" stroke-opacity="0.75" stroke-width="1.5" style="animation-delay:-3.15s"/>
+        <circle class="dot" cx="26" cy="23" r="7" fill="#007FFF" style="animation-delay:-3.15s"/>
+        <circle cx="26" cy="23" r="12" fill="#007FFF" fill-opacity="0.15"/>
+        <text x="46" y="28" class="t">MaterialUI</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(138,60)">
+    <g class="in" style="animation-delay:0.64s">
+      <g class="fl" style="animation-delay:-3.6s">
+        <rect class="card" width="128" height="46" rx="23" fill="#0B1B3D" stroke="#F24E1E" stroke-opacity="0.75" stroke-width="1.5" style="animation-delay:-3.6s"/>
+        <circle class="dot" cx="26" cy="23" r="7" fill="#F24E1E" style="animation-delay:-3.6s"/>
+        <circle cx="26" cy="23" r="12" fill="#F24E1E" fill-opacity="0.15"/>
+        <text x="46" y="28" class="t">Figma</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(272,60)">
+    <g class="in" style="animation-delay:0.72s">
+      <g class="fl" style="animation-delay:-4.05s">
+        <rect class="card" width="128" height="46" rx="23" fill="#0B1B3D" stroke="#FDBD39" stroke-opacity="0.75" stroke-width="1.5" style="animation-delay:-4.05s"/>
+        <circle class="dot" cx="26" cy="23" r="7" fill="#FDBD39" style="animation-delay:-4.05s"/>
+        <circle cx="26" cy="23" r="12" fill="#FDBD39" fill-opacity="0.15"/>
+        <text x="46" y="28" class="t">Zeplin</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(406,60)">
+    <g class="in" style="animation-delay:0.8s">
+      <g class="fl" style="animation-delay:-4.5s">
+        <rect class="card" width="128" height="46" rx="23" fill="#0B1B3D" stroke="#F05032" stroke-opacity="0.75" stroke-width="1.5" style="animation-delay:-4.5s"/>
+        <circle class="dot" cx="26" cy="23" r="7" fill="#F05032" style="animation-delay:-4.5s"/>
+        <circle cx="26" cy="23" r="12" fill="#F05032" fill-opacity="0.15"/>
+        <text x="46" y="28" class="t">Git</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(540,60)">
+    <g class="in" style="animation-delay:0.88s">
+      <g class="fl" style="animation-delay:-4.95s">
+        <rect class="card" width="128" height="46" rx="23" fill="#0B1B3D" stroke="#8DD6F9" stroke-opacity="0.75" stroke-width="1.5" style="animation-delay:-4.95s"/>
+        <circle class="dot" cx="26" cy="23" r="7" fill="#8DD6F9" style="animation-delay:-4.95s"/>
+        <circle cx="26" cy="23" r="12" fill="#8DD6F9" fill-opacity="0.15"/>
+        <text x="46" y="28" class="t">Webpack</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(674,60)">
+    <g class="in" style="animation-delay:0.96s">
+      <g class="fl" style="animation-delay:-5.4s">
+        <rect class="card" width="128" height="46" rx="23" fill="#0B1B3D" stroke="#646CFF" stroke-opacity="0.75" stroke-width="1.5" style="animation-delay:-5.4s"/>
+        <circle class="dot" cx="26" cy="23" r="7" fill="#646CFF" style="animation-delay:-5.4s"/>
+        <circle cx="26" cy="23" r="12" fill="#646CFF" fill-opacity="0.15"/>
+        <text x="46" y="28" class="t">Vite</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(808,60)">
+    <g class="in" style="animation-delay:1.04s">
+      <g class="fl" style="animation-delay:-5.85s">
+        <rect class="card" width="128" height="46" rx="23" fill="#0B1B3D" stroke="#764ABC" stroke-opacity="0.75" stroke-width="1.5" style="animation-delay:-5.85s"/>
+        <circle class="dot" cx="26" cy="23" r="7" fill="#764ABC" style="animation-delay:-5.85s"/>
+        <circle cx="26" cy="23" r="12" fill="#764ABC" fill-opacity="0.15"/>
+        <text x="46" y="28" class="t">Redux</text>
+      </g>
+    </g>
+  </g>
+</svg>
